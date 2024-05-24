@@ -48,7 +48,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aengkrrrrr&layout=compact)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aengkrrrrr&show_icons=true&theme=radical)
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
