@@ -48,6 +48,8 @@
 
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:srimm3399@gmail.com">
