@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <h1>Hello aengkrrrrr</h1>
+  <h1>Hello, I'm aengkrrrrr</h1>
 </div>
 
 <!--내용 부분-->
