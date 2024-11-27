@@ -49,18 +49,13 @@
   <img src="https://img.shields.io/badge/figma-FF4154.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-3578E5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0769AD" />&nbsp
    <img src="https://img.shields.io/badge/firebase-F7DF1E.svg?style=for-the-badge&logo=firebase&logoColor=#DD2C00" />&nbsp
-    <img src="https://img.shields.io/badge/bootstrap-dddddd.svg?style=for-the-badge&logo=bootstrap&logoColor=##7952B3" />&nbsp
+    <img src="https://img.shields.io/badge/bootstrap-dddddd.svg?style=for-the-badge&logo=bootstrap&logoColor=#7952B3" />&nbsp
 </div>
 
 <br>
 
-<div align="center">
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aengkrrrrr&layout=compact)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aengkrrrrr&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aengkrrrrr&layout=compact) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aengkrrrrr&show_icons=true&theme=radical)
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
