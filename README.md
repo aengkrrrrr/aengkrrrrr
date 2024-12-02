@@ -19,11 +19,6 @@
   <img src="https://img.shields.io/badge/php-DB7093?style=for-the-badge&logo=php&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />
  <br>
-  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/normalizedotcss-E3695F?style=for-the-badge&logo=normalizedotcss&logoColor=white">
@@ -43,6 +38,10 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/slack-DB7093?style=for-the-badge&logo=slack&logoColor=#4A154B" />&nbsp
+   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+
 
 </div>
 
@@ -52,6 +51,9 @@
   <img src="https://img.shields.io/badge/VSCode-3578E5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0769AD" />&nbsp
    <img src="https://img.shields.io/badge/firebase-F7DF1E.svg?style=for-the-badge&logo=firebase&logoColor=#DD2C00" />&nbsp
     <img src="https://img.shields.io/badge/bootstrap-dddddd.svg?style=for-the-badge&logo=bootstrap&logoColor=#7952B3" />&nbsp
+    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+ 
 </div>
 
 <br>
@@ -64,5 +66,6 @@
   <a href="mailto:srimm3399@naver.com">
     <img
       src="https://img.shields.io/badge/srimm3399@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
   </a>
 </div>
